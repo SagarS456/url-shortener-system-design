@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "level-0", "level-0", "{643B60AB-B19C-210B-E8FA-3C7CA41C5816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrlShortener.Level0", "level-0\UrlShortener.Level0\UrlShortener.Level0.csproj", "{8E165D0C-A6E2-E72E-C2EE-EEE3A6B4A3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E165D0C-A6E2-E72E-C2EE-EEE3A6B4A3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E165D0C-A6E2-E72E-C2EE-EEE3A6B4A3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E165D0C-A6E2-E72E-C2EE-EEE3A6B4A3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E165D0C-A6E2-E72E-C2EE-EEE3A6B4A3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8E165D0C-A6E2-E72E-C2EE-EEE3A6B4A3F3} = {643B60AB-B19C-210B-E8FA-3C7CA41C5816}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFDB978C-0299-4D7C-BFA2-7DEB95F2A827}
+	EndGlobalSection
+EndGlobal
